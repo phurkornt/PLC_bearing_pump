@@ -1,1 +1,11 @@
 
+มี4ส่วน
+
+1) Code main หลัก 
+    -เพิ่ม Sensor ตรวจสอบ Bearing
+    -เพิ่มTimer จังหวะเตะลูก
+2) Code ตัวเล็ก
+    -เพิ่มDelay จังหวะ Slide ข้างขวา Slide ออกมา
+    
+    
+3)-4) ควบคุมpump
